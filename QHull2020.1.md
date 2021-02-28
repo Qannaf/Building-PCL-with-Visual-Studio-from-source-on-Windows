@@ -10,7 +10,7 @@ Download
 
 CMake  
 -----
-1.Leave config.cmake.in in the existing build folder (C: \ qhull-2020.1 \ build) and delete the other files.
+1.Leave config.cmake.in in the existing build folder (C:\qhull-2020.1\build) and delete the other files.
 
 1. Specify the input destination of the source code and the output destination of the solution file. 
     * **Where is the source code:**         C:\qhull-2020.1  
@@ -48,7 +48,7 @@ CMake
 
 Build  
 -----
-1. Start Visual Studio with administrator privileges and QHull solution files(C:\qhull-2020.1\build\qhull.sln)Openく。  
+1. Start Visual Studio with administrator privileges and QHull solution files(C:\qhull-2020.1\build\qhull.sln)Open.
    (INSTALL fails unless Visual Studio is started with administrator privileges.)  
 
 2.Build QHull. (ALL_BUILD)
