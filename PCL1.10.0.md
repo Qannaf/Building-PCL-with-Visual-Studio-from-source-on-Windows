@@ -1,8 +1,6 @@
-# Building-PCL-with-Visual-Studio-from-source-on-Windows
-This tutorial explains how to build the Point Cloud Library from source on Microsoft Windows platforms with Cmake
-
 Building PCL 1.10.0 with Visual Studio
 =====================================
+This tutorial explains how to build the Point Cloud Library from source on Microsoft Windows platforms with Cmake
 
 Download  
 --------
@@ -159,7 +157,7 @@ VTK found (include: C:/Program Files/VTK/include/vtk-8.2, libs: vtkChartsCore;vt
 
 Build  
 -----
-1.Start Visual Studio with administrator privileges and PCL solution file(C:\PCL-1.10.0\build\PCL.sln) Openく。    
+1.Start Visual Studio with administrator privileges and PCL solution file(C:\PCL-1.10.0\build\PCL.sln) Open  
    (INSTALL fails unless Visual Studio is started with administrator privileges)  
 
 2. Build PCL. (ALL_BUILD)
