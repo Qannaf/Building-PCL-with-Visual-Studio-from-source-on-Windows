@@ -13,11 +13,11 @@ Download
 3rdParty  
 --------
 1. Build and install the 3rd Party library.
-    * Boost 1.72.0 <https://gist.github.com/UnaNancyOwen/d879a41710e9c05025f8#file-boost1-72-0-md>  
-    * Eigen 3.3.7 <https://gist.github.com/UnaNancyOwen/08e5a9b8f5979ed0077c#file-eigen3-3-7-md>  
-    * FLANN 1.9.1 <https://gist.github.com/UnaNancyOwen/1e3fced09e4430ad0b7b#file-flann1-9-1-md>  
-    * QHull 2019.1 <https://gist.github.com/UnaNancyOwen/ffbe6b05ee0101620d3c#file-qhull-2019-1-md>
-    * VTK 8.2.0 <https://gist.github.com/UnaNancyOwen/9d16060714ba9b28f90e#file-vtk8-2-0-md>  
+    * Boost 1.72.0 <https://github.com/Qannaf/Building-PCL-with-Visual-Studio-from-source-on-Windows/blob/main/Boost1.74.0.md>  
+    * Eigen 3.3.7 <https://github.com/Qannaf/Building-PCL-with-Visual-Studio-from-source-on-Windows/blob/main/Eigen3.3.8.md>  
+    * FLANN 1.9.1 <https://github.com/Qannaf/Building-PCL-with-Visual-Studio-from-source-on-Windows/blob/main/FLANN1.9.1.md>  
+    * QHull 2019.1 <https://github.com/Qannaf/Building-PCL-with-Visual-Studio-from-source-on-Windows/blob/main/QHull2020.1.md>
+    * VTK 8.2.0 <https://github.com/Qannaf/Building-PCL-with-Visual-Studio-from-source-on-Windows/blob/main/VTK8.2.0.md>  
     * OpenNI 2.2.0.33 Beta <http://structure.io/openni>
 
 2. Set environment variables for 3rdParty library  
