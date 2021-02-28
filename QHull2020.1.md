@@ -64,4 +64,4 @@ Build
 
 Environment Variable
 --------------------
-1. Create the environment variable ** QHULL_ROOT ** and set the QHull path (C:\Program Files\qhull).
+1. Create the environment variable ** QHULL_ROOT ** and set the QHull path (C:\Program Files\qhull). 
