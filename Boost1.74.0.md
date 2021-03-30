@@ -3,12 +3,17 @@ Building Boost 1.74.0 with Visual Studio 16 2019 and CMacke
 
 Download
 --------
-1. Boost 1.74.0(boost_1_74_0.zip) Download and unzip the file。(C:\boost_1_74_0)  
-   <http://www.boost.org/users/history/version_1_74_0.html>  
+1. Boost 1.74.0(boost_1_74_0.zip) Download and unzip the file。(C:\boost_1_74_0) 
+   - From boost.org 
+   <http://www.boost.org/users/history/version_1_74_0.html> 
+   - From github
    <https://github.com/boostorg/boost/tree/boost-1.74.0>  
 
-2. Microsoft MPI v10.0(MSMpiSetup.exe)とMicrosoft MPI SDK v10.0(msmpisdk.msi)Download and install.  
-   (Respectively C:\Program Files\Microsoft MPI and C:\Program Files (x86)\Microsoft SDKs\MPI Will be installed in)  
+2. Download and install Microsoft MPI v10.0(MSMpiSetup.exe)   
+   it Will be installed in C:\Program Files\Microsoft MPI 
+   <https://www.microsoft.com/en-us/download/details.aspx?id=57467>  
+3. Download and install Microsoft MPI SDK v10.0(msmpisdk.msi)  
+  it Will be installed in C:\Program Files (x86)\Microsoft SDKs\MPI
    <https://www.microsoft.com/en-us/download/details.aspx?id=57467>  
 
 Build
