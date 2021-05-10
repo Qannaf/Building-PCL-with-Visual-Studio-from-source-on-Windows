@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img width="600" height="197" src="https://pointclouds.org/assets/images/logo.png">
-</p>
+  <img width="600" height="197" src="https://pointclouds.org/assets/images/logo.png"></p>
 
 Building PCL 1.10.0 with Visual Studio
 =====================================
